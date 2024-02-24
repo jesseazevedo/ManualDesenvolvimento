@@ -1,0 +1,17 @@
+site_name: Manual do Desenvolvedor RBCIP
+
+dev_addr: 127.0.0.1:8005
+
+docs/:
+  index.md
+  fluxoDeTrabalho
+    index.md
+  assests
+    img
+      "gitFLow.png"
+
+nav:
+  - Home: index.md
+  - "Guia de Boas Práticas":
+    - "Fluxo de Trabalho": fluxoDeTrabalho/index.md
+  - "Sobre": sobre.md
