@@ -87,7 +87,15 @@
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#estrategia-de-nomenclatura" class="nav-link">Estratégia de nomenclatura</a>
+            <li class="nav-item" data-level="2"><a href="#estrategia-de-brances" class="nav-link">Estratégia de Brances</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#padrao-de-nomenclatura" class="nav-link">Padrão de Nomenclatura</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#padrao-de-nomes-para-tags" class="nav-link">Padrão de Nomes para Tags</a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -105,8 +113,22 @@ O Git Flow é uma estratégia para organizar o fluxo de trabalho publicada em 20
 <h2 id="como-funciona-o-git-flow">Como funciona o Git Flow</h2>
 <p>O Git Flow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais. De forma simplificada a branch master funciona como o repositório da versão estável do sistema, é ideal que todos os commits na branch master sejam marcados (tageados) com um número de versão. A Branch Developer atua como uma branch de integração para recursos. Abaixo temos um modelo conceitual do que abordamos no texto.  </p>
 <p><img alt="Git Flow" src="../assests/img/gitFlow.png" /></p>
-<h2 id="estrategia-de-nomenclatura">Estratégia de nomenclatura</h2>
-<p>Considerando o exposto, teremos sempre duas branches que serão mantidas durante todo o decorrer do projeto, as branchs main e develop. Haverão no entando outras 2 branches que nascerão a medida que</p></div>
+<h2 id="estrategia-de-brances">Estratégia de Brances</h2>
+<p>Considerando o exposto, teremos sempre duas branches que serão mantidas durante todo o decorrer do projeto, as branchs main e develop. Outras duas branches surgirão naturalmente a partir do processo de desenvolvimento que são as branches hotfix e feature.  </p>
+<p>A branch feature sempre nascerá a partir da branch develop, enquanto a branch hotfix poderá nascer a partir da branch main ou develop. Abaixo um resumo do exposto até o momento:</p>
+<ol>
+<li>main: branch padrão do Git. Utilizada para delimitar a versão de produção da aplicação.  </li>
+<li>develop: utilizada como base de desenvolvimento de features e como branch padrão para análise de código estático.  </li>
+<li>feature branches: branches de funcionalidades. Utilizadas para implementar as funcionalidades que serão integradas na branch develop  </li>
+<li>fix branches: Brnaches de correção. Utilizadas para corrigir algum comportamento relacionado a uma versão ou release da aplicação, poderá surgir a partir das branches develop ou main.  </li>
+</ol>
+<h2 id="padrao-de-nomenclatura">Padrão de Nomenclatura</h2>
+<p>Para a nomenclatura das branches de feature e hotfix serão adotados padrões conforme segue abaixo:  </p>
+<ol>
+<li>Feature Branches: As branchs deverão se iniciar com o prefixo <strong><em>feat/</em></strong> seguido de uma descrição da feature que implantará. Exemplo: <strong><em>feat/RelatorioEstoque</em></strong>.</li>
+<li>Hotfix Branches: As branches deverão se iniciar com o prefixo <strong><em>fix/</em></strong> seguido de uma descrição da correção que prentende implantar. Exemplo: <strong><em>fix/TituloHome</em></strong>.</li>
+</ol>
+<h2 id="padrao-de-nomes-para-tags">Padrão de Nomes para Tags</h2></div>
             </div>
         </div>
 
