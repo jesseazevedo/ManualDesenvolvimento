@@ -5,15 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>Banco de Dados - Manual do Desenvolvedor RBCIP</title>
+    <title>Scrum - Manual do Desenvolvedor RBCIP</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Banco de Dados";
-        var mkdocs_page_input_path = "database/index.md";
+        var mkdocs_page_name = "Scrum";
+        var mkdocs_page_input_path = "scrum/index.md";
         var mkdocs_page_url = null;
       </script>
     
@@ -45,7 +45,17 @@
               </ul>
               <p class="caption"><span class="caption-text">Guia de Boas Práticas</span></p>
               <ul class="current">
-                  <li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Scrum</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#reuniao-de-planejamento-sprint-planning">Reunião de planejamento (Sprint Planning)</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#reuniao-diaria-daily">Reunião diária (Daily)</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#review">Review</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#retrospectiva">Retrospectiva</a>
+    </li>
+    </ul>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../fluxoDeTrabalho/">Fluxo de Trabalho</a>
                   </li>
@@ -55,17 +65,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../backend/">Back-end</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Banco de Dados</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#padrao-de-nomenclatura">Padrão de nomenclatura</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#estrutura-de-pastas">Estrutura de Pastas</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#automacao-de-migracoes">Automação de migrações</a>
-    </li>
-        </ul>
-    </li>
-    </ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../database/">Banco de Dados</a>
                   </li>
               </ul>
               <ul>
@@ -87,7 +87,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">Guia de Boas Práticas</li>
-      <li class="breadcrumb-item active">Banco de Dados</li>
+      <li class="breadcrumb-item active">Scrum</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -96,41 +96,25 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="banco-de-dados">Banco de dados</h1>
-<p>No âmbito do desenvolvimento dos projetos e-SUS AF e SisDAF, serão utilizadas o mesmo padrão de nomenclatura e mesma estratégia de migração, no entanto, a estrutura de pastas poderá mudar um pouco, posto caracteristicas específicas de cada projeto.  </p>
-<p>Em especial o e-SUS AF terá um processo de migração mais cuidadoso posto a necessidade de gerenciar versões da aplicação bem como a pretensão de homologar a aplicação para os SGBD's Postgres, Oracle, MySQL e SQLServer.  </p>
-<h2 id="padrao-de-nomenclatura">Padrão de nomenclatura</h2>
-<p>Para a nomenclatura dos objetos de banco de dados utilizaremos o padrão definido pelo DATASUS e publicado no documento Padronização de Nomenclatura para objetos de Banco de Dados. Para saber mais, acesse os documentos logo abaixo:  </p>
-<ul>
-<li><a href="../assests/docs/Padronizacao%20de%20Nomenclatura%20para%20Objetos%20de%20Banco%20de%20Dados%20Sugestao%20CGIIS.pdf">Padronização de Nomenclatura para objetos de Banco de Dados</a>  </li>
-<li><a href="../assests/docs/Cartilha%20de%20Administracao%20de%20Dados.pdf">Cartilha de Administração de Dados</a>  </li>
-</ul>
-<h2 id="estrutura-de-pastas">Estrutura de Pastas</h2>
-<p>Para garantir que as migrações ocorram de forma mais fluída e intuitiva, adotaremos uma estrutura de diretório rígida e com papel bem definido:  </p>
-<pre><code>├── mr                (Nesta pasta ficarão apenas os arquivos sql de features ainda não mergeadas)
-│   ├── mysql
-│   ├── oracle
-│   ├── postgres
-│   └── sqlserver
-└── versions          (Este arquivo guarda versões consolidadas do banco de dados)  
-    ├── mysql
-    ├── oracle
-    ├── postgres
-    └── sqlserver
-</code></pre>
-<ul>
-<li>Organize suas migrações no diretório MR adicionando os arquivos para cada um dos banco de dados descritos.  </li>
-<li>Trabalhe suas migrações em 2 arquivos distintos, onde 0 1º arquivo deve realizar todas as operações de DML necessárias a migração e o 2º arquivo deve trazer alterações em DDL.  </li>
-<li>Ao fim de cada sprint, o líder técnico deverá consolidar todos os arquivos produzidos em seus respectivos arquivos de versão.  </li>
-</ul>
-<h3 id="automacao-de-migracoes">Automação de migrações</h3>
-<p>Em breve</p>
+                <h1 id="framework-scrum">Framework Scrum</h1>
+<h2 id="reuniao-de-planejamento-sprint-planning">Reunião de planejamento (Sprint Planning)</h2>
+<p><strong>Duração:</strong> 4 horas - das 14h ~ 18h<br />
+Realizada na primeira segunda-feira da sprint  </p>
+<h2 id="reuniao-diaria-daily">Reunião diária (Daily)</h2>
+<p><strong>Duração:</strong> 15 minutos - das 9h ~ 9h15<br />
+Realizada todos os dias, exceto nos dias de planejamento e review  </p>
+<h2 id="review">Review</h2>
+<p><strong>Duração:</strong> 1 hora - das 14h ~ 15h<br />
+Realizada na última sexta-feira da sprint</p>
+<h2 id="retrospectiva">Retrospectiva</h2>
+<p><strong>Duração:</strong> 2 horas - das 15h ~ 17h<br />
+Realizada na última sexta-feira da sprint</p>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../backend/" class="btn btn-neutral float-left" title="Back-end"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../sobre/" class="btn btn-neutral float-right" title="Sobre">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href=".." class="btn btn-neutral float-left" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../fluxoDeTrabalho/" class="btn btn-neutral float-right" title="Fluxo de Trabalho">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -153,10 +137,10 @@
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../backend/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href=".." style="color: #fcfcfc">&laquo; Previous</a></span>
     
     
-      <span><a href="../sobre/" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../fluxoDeTrabalho/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
