@@ -100,6 +100,14 @@
 <li><a href="../assests/docs/Cartilha%20de%20Administracao%20de%20Dados.pdf">Cartilha de Administração de Dados</a>  </li>
 </ul>
 <h2 id="estrutura-de-pastas">Estrutura de Pastas</h2>
+<p>Para garantir que as migrações ocorram de forma mais fluída e intuitiva, adotaremos uma estrutura de diretório rígida e com papel bem definido:  </p>
+<pre><code>├── mr                (Nesta pasta ficarão apenas os arquivos sql de features ainda não mergeadas)
+│   ├── mysql
+│   ├── oracle
+│   ├── postgres
+│   └── sqlserver
+└── versions          (Este arquivo guarda versões consolidadas do banco de dados)
+</code></pre>
               
             </div>
           </div><footer>
