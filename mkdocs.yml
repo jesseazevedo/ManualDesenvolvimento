@@ -17,6 +17,7 @@ docs/:
 nav:
   - Home: index.md
   - "Guia de Boas Práticas":
+    - "Scrum": scrum/index.md
     - "Fluxo de Trabalho": fluxoDeTrabalho/index.md
     - "Revisão de Código": revisoes/index.md
     - "Front-end": frontend/index.md
