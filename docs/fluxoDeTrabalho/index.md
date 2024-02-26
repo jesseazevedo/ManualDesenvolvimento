@@ -22,7 +22,7 @@ O *GitHub Flow* é um modelo de fluxo de trabalho leve e flexível que se baseia
 
 2. **Abertura de Pull Request:**
 
-    - Assim que concluir o desenvolvimento na sua branch, abra um Pull Request (PR). Isso permite que os responsáveis(pares) revisem suas alterações antes de serem mescladas na branch principal (normalmente main ou master). 
+    - Assim que concluir o desenvolvimento na sua branch, abra um Pull Request (PR). Isso permite que os responsáveis(pares) revisem suas alterações antes de serem mescladas na branch principal (normalmente main ou master).
 
 3. **Revisão de Código (Code Review):**
 
@@ -56,8 +56,7 @@ Branches de curta duração que são usadas para trabalhar em todas as partes do
     - bugfix/1234-descricao (o número corresponde ao id do issue)
     - hotfix/1234-descricao
 
-* **Atenção:** A diferença entre bugfix e hotfix é que o segundo corrige erros em produção e o primeiro só no desenvolvimento
-
+- **Atenção:** A diferença entre bugfix e hotfix é que o segundo corrige erros em produção e o primeiro só no desenvolvimento
 
 ## Tag
 

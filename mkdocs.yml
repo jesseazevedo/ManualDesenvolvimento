@@ -18,4 +18,10 @@ nav:
   - Home: index.md
   - "Guia de Boas Práticas":
     - "Fluxo de Trabalho": fluxoDeTrabalho/index.md
+    - "Revisão de Código": revisoes/index.md
+    - "Front-end": frontend/index.md
+    - "Back-end": backend/index.md
+    - "Banco de Dados": database/index.md
   - "Sobre": sobre.md
+
+theme: readthedocs

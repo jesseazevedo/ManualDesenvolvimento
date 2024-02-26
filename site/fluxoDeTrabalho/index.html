@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Fluxo de Trabalho - Manual do Desenvolvedor RBCIP</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Fluxo de Trabalho";
+        var mkdocs_page_input_path = "fluxoDeTrabalho/index.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Manual do Desenvolvedor RBCIP
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Guia de Boas Práticas</span></p>
+              <ul class="current">
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Fluxo de Trabalho</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#como-funciona-o-git-flow">Como funciona o Git Flow</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#estrategia-de-brances">Estratégia de Brances</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#padrao-de-nomenclatura">Padrão de Nomenclatura</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#padrao-de-nomes-para-tags">Padrão de Nomes para Tags</a>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../revisoes/">Revisão de Código</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../frontend/">Front-end</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../backend/">Back-end</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../database/">Banco de Dados</a>
+                  </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../sobre/">Sobre</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Manual do Desenvolvedor RBCIP</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Guia de Boas Práticas</li>
+      <li class="breadcrumb-item active">Fluxo de Trabalho</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="fluxo-de-trabalho">Fluxo de trabalho</h1>
+<p>Neste módulo abordaremos o fluxo de trabalho da equipe e o uso do GIT como ferramenta de versionamento de código de forma a orquestrar de forma harmoonica o trabalho de desenvolvimento colaborativo a ser conduzido durante o processo de desenvolvimento dos códigos.<br />
+Para o proceso de trabalho, utilizaremos o modelo/estratégia Git Flow.<br />
+O Git Flow é uma estratégia para organizar o fluxo de trabalho publicada em 2010, pelo engenheiro de software holandês Vincent Driessen. O Objetivo é padronizar  e organizar as branches dentro dos repositórios e, desta forma, dar fluidez ao processo de desenvolvimento de novas funcionalidades, correções de bugs e lançamentos de versões. Seu uso é recomendado para projetos que utilizam versionamento semântico ou que precisam oferecer suporte a várias versões do seu código.</p>
+<h2 id="como-funciona-o-git-flow">Como funciona o Git Flow</h2>
+<p>O Git Flow trabalha com duas branches principais, a Develop e a Master, que duram para sempre; e três branches de suporte, Feature, Release e Hotfix, que são temporários e duram até realizar o merge com as branches principais. De forma simplificada a branch master funciona como o repositório da versão estável do sistema, é ideal que todos os commits na branch master sejam marcados (tageados) com um número de versão. A Branch Developer atua como uma branch de integração para recursos. Abaixo temos um modelo conceitual do que abordamos no texto.  </p>
+<p><img alt="Git Flow" src="../assests/img/gitFlow.png" /></p>
+<h2 id="estrategia-de-brances">Estratégia de Brances</h2>
+<p>Considerando o exposto, teremos sempre duas branches que serão mantidas durante todo o decorrer do projeto, as branchs main e develop. Outras duas branches surgirão naturalmente a partir do processo de desenvolvimento que são as branches hotfix e feature.  </p>
+<p>A branch feature sempre nascerá a partir da branch develop, enquanto a branch hotfix poderá nascer a partir da branch main ou develop. Abaixo um resumo do exposto até o momento:</p>
+<ol>
+<li>main: branch padrão do Git. Utilizada para delimitar a versão de produção da aplicação.  </li>
+<li>develop: utilizada como base de desenvolvimento de features e como branch padrão para análise de código estático.  </li>
+<li>feature branches: branches de funcionalidades. Utilizadas para implementar as funcionalidades que serão integradas na branch develop  </li>
+<li>fix branches: Brnaches de correção. Utilizadas para corrigir algum comportamento relacionado a uma versão ou release da aplicação, poderá surgir a partir das branches develop ou main.  </li>
+</ol>
+<h2 id="padrao-de-nomenclatura">Padrão de Nomenclatura</h2>
+<p>Para a nomenclatura das branches de feature e hotfix serão adotados padrões conforme segue abaixo:  </p>
+<ol>
+<li>Feature Branches: As branchs deverão se iniciar com o prefixo <strong><em>feat/</em></strong> seguido de uma descrição da feature que implantará. Exemplo: <strong><em>feat/RelatorioEstoque</em></strong>.</li>
+<li>Hotfix Branches: As branches deverão se iniciar com o prefixo <strong><em>fix/</em></strong> seguido de uma descrição da correção que prentende implantar. Exemplo: <strong><em>fix/TituloHome</em></strong>.</li>
+</ol>
+<h2 id="padrao-de-nomes-para-tags">Padrão de Nomes para Tags</h2>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href=".." class="btn btn-neutral float-left" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../revisoes/" class="btn btn-neutral float-right" title="Revisão de Código">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href=".." style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../revisoes/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
