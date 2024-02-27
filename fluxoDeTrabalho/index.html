@@ -1,101 +1,114 @@
 <!DOCTYPE html>
-
-<html class="writer-html5" lang="en">
+<html class="writer-html5" lang="en" >
 <head>
-<meta charset="utf-8"/>
-<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<link href="../img/favicon.ico" rel="shortcut icon"/>
-<title>Fluxo de Trabalho - Manual do Desenvolvedor RBCIP</title>
-<link href="../css/theme.css" rel="stylesheet"/>
-<link href="../css/theme_extra.css" rel="stylesheet"/>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" rel="stylesheet"/>
-<script>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Fluxo de Trabalho - Manual do Desenvolvedor RBCIP</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
         // Current page data
         var mkdocs_page_name = "Fluxo de Trabalho";
         var mkdocs_page_input_path = "fluxoDeTrabalho/index.md";
         var mkdocs_page_url = null;
       </script>
-<!--[if lt IE 9]>
+    
+    <!--[if lt IE 9]>
       <script src="../js/html5shiv.min.js"></script>
     <![endif]-->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-<script>hljs.highlightAll();</script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
 </head>
+
 <body class="wy-body-for-nav" role="document">
-<div class="wy-grid-for-nav">
-<nav class="wy-nav-side stickynav" data-toggle="wy-nav-shift">
-<div class="wy-side-scroll">
-<div class="wy-side-nav-search">
-<a class="icon icon-home" href=".."> Manual do Desenvolvedor RBCIP
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Manual do Desenvolvedor RBCIP
         </a><div role="search">
-<form action="../search.html" class="wy-form" id="rtd-search-form" method="get">
-<input aria-label="Search docs" name="q" placeholder="Search docs" title="Type search term here" type="text"/>
-</form>
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
 </div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Guia de Boas Práticas</span></p>
+              <ul class="current">
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Fluxo de Trabalho</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#branches">Branches</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#tag">Tag</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#tipo-de-repositorio">Tipo de repositório</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#exemplo-de-fluxos-de-trabalho">Exemplo de fluxos de trabalho</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#novas-features">Novas features</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#hotfix-features">Hotfix features</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="#">Metodologia</a>
+    <ul>
+                <li class="toctree-l2"><a class="reference internal" href="../scrum/">Scrum</a>
+                </li>
+                <li class="toctree-l2"><a class="reference internal" href="../scrum/daily/">Daily</a>
+                </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../revisoes/">Revisão de Código</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../frontend/">Front-end</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../backend/">Back-end</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../database/">Banco de Dados</a>
+                  </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../sobre/">Sobre</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Manual do Desenvolvedor RBCIP</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Guia de Boas Práticas</li>
+      <li class="breadcrumb-item active">Fluxo de Trabalho</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
 </div>
-<div aria-label="Navigation menu" class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation">
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="..">Home</a>
-</li>
-</ul>
-<p class="caption"><span class="caption-text">Guia de Boas Práticas</span></p>
-<ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="../scrum/">Scrum</a>
-</li>
-<li class="toctree-l1 current"><a class="reference internal current" href="./">Fluxo de Trabalho</a>
-<ul class="current">
-<li class="toctree-l2"><a class="reference internal" href="#branches">Branches</a>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="#tag">Tag</a>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="#tipo-de-repositorio">Tipo de repositório</a>
-</li>
-<li class="toctree-l2"><a class="reference internal" href="#exemplo-de-fluxos-de-trabalho">Exemplo de fluxos de trabalho</a>
-<ul>
-<li class="toctree-l3"><a class="reference internal" href="#novas-features">Novas features</a>
-</li>
-<li class="toctree-l3"><a class="reference internal" href="#hotfix-features">Hotfix features</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../revisoes/">Revisão de Código</a>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../frontend/">Front-end</a>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../backend/">Back-end</a>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../database/">Banco de Dados</a>
-</li>
-</ul>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../sobre/">Sobre</a>
-</li>
-</ul>
-</div>
-</div>
-</nav>
-<section class="wy-nav-content-wrap" data-toggle="wy-nav-shift">
-<nav aria-label="Mobile navigation menu" class="wy-nav-top" role="navigation">
-<i class="fa fa-bars" data-toggle="wy-nav-top"></i>
-<a href="..">Manual do Desenvolvedor RBCIP</a>
-</nav>
-<div class="wy-nav-content">
-<div class="rst-content"><div aria-label="breadcrumbs navigation" role="navigation">
-<ul class="wy-breadcrumbs">
-<li><a aria-label="Docs" class="icon icon-home" href=".."></a></li>
-<li class="breadcrumb-item">Guia de Boas Práticas</li>
-<li class="breadcrumb-item active">Fluxo de Trabalho</li>
-<li class="wy-breadcrumbs-aside">
-</li>
-</ul>
-<hr/>
-</div>
-<div class="document" itemscope="itemscope" itemtype="http://schema.org/Article" role="main">
-<div class="section" itemprop="articleBody">
-<h1 id="fluxo-de-trabalho">Fluxo de trabalho</h1>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="fluxo-de-trabalho">Fluxo de trabalho</h1>
 <p>Neste módulo abordaremos o fluxo de trabalho da equipe e o uso do GIT como ferramenta de versionamento de código de forma a orquestrar de forma harmoonica o trabalho de desenvolvimento colaborativo a ser conduzido durante o processo de desenvolvimento dos códigos.  </p>
 <p>O <em>GitHub Flow</em> é um modelo de fluxo de trabalho leve e flexível que se baseia no uso de branches (ramificações) no Git e é particularmente adequado para projetos com ciclos de desenvolvimento rápidos. Aqui estão os passos básicos do GitHub Flow:</p>
 <ol>
@@ -196,7 +209,7 @@ git commit -am "Mensagem descritiva do commit"</code></p>
 <p>Vamos expor os tipos de uso dos branchs.  A branch main sempre terá a última versão com todas as features.</p>
 <h3 id="novas-features">Novas features</h3>
 <p>Para novas features ou bugfix utilizamos uma branch seguindo o padrão de nomenclatura. O exemplo abaixo considera 2 implementações sendo desenvolvidas, uma feature e um bugfix.</p>
-<div class="mermaid">%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'rotateCommitLabel': true}} }%%
+<pre><code class="language-mermaid">%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'rotateCommitLabel': true}} }%%
 gitGraph
     commit
     commit
@@ -212,22 +225,22 @@ gitGraph
     merge bugfix/231-erro-info
     commit
     commit
-</div>
+</code></pre>
 <h3 id="hotfix-features">Hotfix features</h3>
 <p>No exemplo abaixo mostra a aplicação de um hotfix (versão 1.0.1) e após isso a aplicação de um novo hotfix (versão 1.0.2).</p>
-<div class="mermaid">%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'rotateCommitLabel': true}} }%%
+<pre><code class="language-mermaid">%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'rotateCommitLabel': true}} }%%
 gitGraph
     commit
-    commit tag:"1.0.0"
+    commit tag:&quot;1.0.0&quot;
     branch hotfix/123-erro-generico
     commit
     commit
     checkout hotfix/123-erro-generico
     commit
-    commit tag:"1.0.1"
+    commit tag:&quot;1.0.1&quot;
     branch hotfix/1444-erro-generico
     commit
-    commit tag:"1.0.2"
+    commit tag:&quot;1.0.2&quot;
     checkout main
     commit
     commit
@@ -237,40 +250,52 @@ gitGraph
     merge hotfix/1444-erro-generico
     commit
     commit
-</div>
-</div>
-</div><footer>
-<div aria-label="Footer Navigation" class="rst-footer-buttons" role="navigation">
-<a class="btn btn-neutral float-left" href="../scrum/" title="Scrum"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-<a class="btn btn-neutral float-right" href="../revisoes/" title="Revisão de Código">Next <span class="icon icon-circle-arrow-right"></span></a>
-</div>
-<hr/>
-<div role="contentinfo">
-<!-- Copyright etc -->
-</div>
+</code></pre>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href=".." class="btn btn-neutral float-left" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../scrum/" class="btn btn-neutral float-right" title="Scrum">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
 
   Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
 </footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href=".." style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../scrum/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
 </div>
-</div>
-</section>
-</div>
-<div aria-label="Versions" class="rst-versions" role="note">
-<span class="rst-current-version" data-toggle="rst-current-version">
-<span><a href="../scrum/" style="color: #fcfcfc">« Previous</a></span>
-<span><a href="../revisoes/" style="color: #fcfcfc">Next »</a></span>
-</span>
-</div>
-<script src="../js/jquery-3.6.0.min.js"></script>
-<script>var base_url = "..";</script>
-<script src="../js/theme_extra.js"></script>
-<script src="../js/theme.js"></script>
-<script src="../search/main.js"></script>
-<script>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
         jQuery(function () {
             SphinxRtdTheme.Navigation.enable(true);
         });
     </script>
-<script type="module">import mermaid from "https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs";
-mermaid.initialize({});</script></body>
+
+</body>
 </html>
