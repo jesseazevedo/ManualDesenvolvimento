@@ -2,10 +2,6 @@ site_name: Manual do Desenvolvedor RBCIP
 
 dev_addr: 127.0.0.1:8005
 
-plugins:
-    - search
-    - mermaid2
-    
 docs/:
   index.md
   fluxoDeTrabalho
@@ -17,8 +13,10 @@ docs/:
 nav:
   - Home: index.md
   - "Guia de Boas Práticas":
-    - "Scrum": scrum/index.md
     - "Fluxo de Trabalho": fluxoDeTrabalho/index.md
+    - "Metodologia":
+      - "Scrum": scrum/index.md
+      - "Daily": scrum/daily.md
     - "Revisão de Código": revisoes/index.md
     - "Front-end": frontend/index.md
     - "Back-end": backend/index.md
