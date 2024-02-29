@@ -64,4 +64,48 @@ Com finalidade de melhorar a experiência dos desenvolvedores, adotaremos uma es
 
 - Use interfaces para definir a forma dos objetos complexos, como modelos de dados.
 - Use tipos TypeScript fortemente tipados sempre que possível para melhorar a legibilidade e evitar erros.
-- Mantenha as funções e métodos o mais curtos possível, preferencialmente abaixo de 30 linhas.
+- Mantenha as funções e métodos o mais curtos possível, preferencialmente abaixo de 30 linhas.  
+- Adote a lingua portuguesa para sua codificação.  
+
+## Dependências
+
+### Estilização
+
+Para a estilização do código, utilizaremos o a biblioteca react-bootstrap. Para maiores detalhes cosnulte a documentação:  
+
+[React Bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction)  
+  
+### Internacionalização  
+  
+Há perspectivas de que o código produzido no âmbito do projeto seja adotado por nações de lingua espanhola e inglesa. Desta forma, recomenda-se o uso do i18n para viabilizar a tradução dos textos no frontend. Para maiores detalhes, consulte a documentação:  
+  
+[i18n](https://www.npmjs.com/package/i18next)  
+  
+### Configuração de rotas
+  
+Para rotas, utilizaremos uma das bibliotecas mais conhecidas entre os desenvolvedores react, o react-router. Para conhecer mais, consulte a documentação oficial:  
+  
+[React Router](https://reactrouter.com/en/main)
+  
+### Gerenciamento de estados
+  
+Para gerenciar estados, utilizaremos o REDUX, uma biblioteca muito popular entre os desenvolvedores react. Para conhecer mais, consulte a documentação oficial:  
+  
+[Redux](https://redux.js.org/)
+  
+### Validação  
+  
+A validação de formulários será realizada com o uso da biblioteca yup. Para maiores detalhes, consulte a documentação:  
+  
+[YUP](https://www.npmjs.com/package/yup)  
+  
+### Requisições
+  
+Para realizar requisições, o front-end utilizará a biblioteca axios. Para conhecer, acesse a documentação:  
+
+[AXIOS](https://axios-http.com/ptbr/docs/intro)  
+  
+### Outras dependências  
+  
+- jest (testes)  
+- classnames (estilização)  
