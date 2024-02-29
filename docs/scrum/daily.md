@@ -144,47 +144,47 @@ Não.
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe e alinharam as tecnologias do desenvolvimento. Fez as rotas da aplicação com exemplo para seguir no padrão  
 * O que será feito?  
-[insira o texto aqui]  
+Desenvolver uma das telas do cadastro.   
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe e alinharam as tecnologias do desenvolvimento. Iniciou a instalação das bibliotecas e fez um teste pra mostrar o tailwind. Fez um primeiro componente das telas. Fez a alteração para o bootstrap.  
 * O que será feito?  
-[insira o texto aqui]  
+Finalizar o desenvolvimento do componente que está trabalhando.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe e alinharam as tecnologias do desenvolvimento.  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientações que serão passadas em reunião de alinhamento.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe e alinharam as tecnologias do desenvolvimento. Foi percebido uma mudança  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientações que serão passadas em reunião de alinhamento.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou o trabalho de ajustes do protótipo do front.  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientações que serão passadas em reunião de alinhamento.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Angelo Morais**  
 
