@@ -200,56 +200,56 @@ Não.
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Reuniu a equipe e dividiu as responsabilidades entre ela. Iniciou o desenvolvimento do backend e preparou a configuração do IUP no frontend e a configuração do i18n (internacionalização da aplicação) para a equipe trabalhar.  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe, html e css já colocou funcionando e começou a parte de componentização e a parte de internacionalização da aplicação.  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar a componentização do front.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe e focou em desenvolver os componentes de botão, alertas e diálogos de confirmação da aplicação. Já está usando a internacionalização.  
 * O que será feito?  
-[insira o texto aqui]  
+Está aguardando orientações pra poder continuar o desenvolvimento. Jessé irá repassar orientações agora pela manhã.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe e fez par programing com o Renan e trabalharam em cima da tela do cadastro de usuário. Os arquivos de imagem foram jogadas pra pasta public.   
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar em cima do plugin de validação dos formulários.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe, ficou responsável pela tela de cadastro e trabalhou em par programming com o Luiz, conseguiram deixar rodando já essa funcionalidade.  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar em cima do plugin de validação dos formulários e internacionalização i18n.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe negocial para alinhar o desenvolvimento do dashboard.  
 * O que será feito?  
-[insira o texto aqui]  
+Vai iniciar o desenvolvimento das telas iniciais do sistema.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Angelo Morais**  
 
