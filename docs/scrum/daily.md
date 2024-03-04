@@ -265,56 +265,56 @@ Não.
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Cri ou um shell script pra padronizar os arquivos.  
 * O que será feito?  
-[insira o texto aqui]  
+Finalizar a padronização no back e escrever os primeiros endpoints de autenticação e autorização.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Ajudou na componentização do front. Finalizou a internacionalização.  
 * O que será feito?  
-[insira o texto aqui]  
+Pretende componentizar o formulário.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Estudou o nexjs.  
 * O que será feito?  
-[insira o texto aqui]  
+Vai conversar com Jessé e ver se faz um pair programming com alguém.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Estudou documentação das tecnologias e terminou a tela de recuperar senha.  
 * O que será feito?  
-[insira o texto aqui]  
+Irá trabalhar na componentização.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos modais e    
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar com a nova biblioteca.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Fez as telas do dashboard.  
 * O que será feito?  
-[insira o texto aqui]  
+Apresentar o protótipo da tela.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Angelo Morais**  
 
