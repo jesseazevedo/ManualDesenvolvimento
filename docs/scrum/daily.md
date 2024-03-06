@@ -395,56 +395,56 @@ Não.
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com parte da equipe, definiu alguns padrões para o back e iniciou a construção dos endpoints  
 * O que será feito?  
-[insira o texto aqui]  
+Irá continuar no desenvolvimento do back  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com o Tácio para dar um suporte e terminaram a tela de login  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardar orientações  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Fez o esquema de layout para aproveitar a componentização, se reuniu com Pedro e com Renan para fazer pair programming e avançou na tela de redefinir senha  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar no desenvolvimento da tela de redefinir senha  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou em cima das mudanças do layout novo e alterou pro padrão novo da internacionalização  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Terminou a componentização e se reuniu com o Tácio para conversar sobre o layout, temrinou a tela de cadastro  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientação  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Deu continuidade ao desenvolvimento do dashboard  
 * O que será feito?  
-[insira o texto aqui]  
+Irá continuar o desenvolvimento do dashboard  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Angelo Morais**  
 
