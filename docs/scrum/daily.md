@@ -397,7 +397,7 @@ Não.
 * O que fez?  
 Se reuniu com parte da equipe, definiu alguns padrões para o back e iniciou a construção dos endpoints  
 * O que será feito?  
-Irá continuar no desenvolvimento do back  
+Irá continuar no desenvolvimento do back end  
 * Algum impedimento?  
 Não  
   
