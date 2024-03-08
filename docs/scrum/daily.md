@@ -460,6 +460,137 @@ Não
 **Jessé da Nobrega**  
 
 * O que fez?  
+Interagiu com toda a equipe e passou orientações. Aprovou alguns PRs no git e trabalhou no backend e configurou banco.  
+* O que será feito?  
+  
+* Algum impedimento?  
+Não  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Configurou o docker e rodou o banco, está ok. Rodou o backend e também está rodando.  
+* O que será feito?  
+Tem que fazer os services e hooks  
+* Algum impedimento?  
+Não  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Finalizou os detalhes do redefinir senha e resolveu conflitos das branches para enviar o PR  
+* O que será feito?  
+Vai continuar com a resolução dos conflitos e enviar o PR pro git  
+* Algum impedimento?  
+Não  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Trabalhou nas refatorações das telas de redefinir a senha, organizou e fez a tradução e fez alguns ajustes dos arquivos que estavam com pendências. Interfaces sem pendências.  
+* O que será feito?  
+Vai instalar e rodar o banco  
+* Algum impedimento?  
+Não  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Resolveu a questão dos icones e fez atualizações na PR para enviar ao git, se reuniu com Luiz para contribuir no código do redefinir a senha  
+* O que será feito?  
+Vai adicionar máscara de campos e resolver conflitos na branch  
+* Algum impedimento?  
+Não  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+  
+* O que será feito?  
+  
+* Algum impedimento?  
+  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 08/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Teve outras agendas e não teve como avançar muito no back  
+* O que será feito?  
+Vai avançar no backend  
+* Algum impedimento?  
+Não  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Fez o hook e o context que será utilizado na aplicação e já abriu PR, verificou e corrigiu dois bugs, no botão e no input  
+* O que será feito?  
+Aguardando orientações  
+* Algum impedimento?  
+Não  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Finalizou a tela de redefinir senha e realizou algumas correções do lint e desenvolveu o componente de input de pessoa e desenvolveu o service do axis e criou um env exemplo pras variáveis  
+* O que será feito?  
+Aguardando orientações  
+* Algum impedimento?  
+Não  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Teve problemas com a máquina e teve que comprar uma nova  
+* O que será feito?  
+Vai configurar o ambiente no novo computador e irá pegar a branch do Pedro como exemplo para verificar se terá que fazer algum ajuste  
+* Algum impedimento?  
+Não  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Entregou a tela de cadastro e configurou o ambiente pra receber o database  
+* O que será feito?  
+Aguardando orientações  
+* Algum impedimento?  
+Não  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+Teve alguns imprevistos e não conseguiu avançar  
+* O que será feito?  
+Vai continuar o trabalho da tela do dashboard e deverá entregar hoje  
+* Algum impedimento?  
+  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+## Sprint 01  
+### 11/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
 [insira o texto aqui]  
 * O que será feito?  
 [insira o texto aqui]  
@@ -520,7 +651,2480 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 08/03/2024  
+### 12/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 13/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 14/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 15/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 18/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 19/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 20/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 21/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 22/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+## Sprint 02  
+### 11/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 12/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 13/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 14/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 15/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 18/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 19/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 20/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 21/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 22/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+## Sprint 03  
+### 11/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 12/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 13/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 14/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 15/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 18/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 19/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 20/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 21/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 22/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+## Sprint 04  
+### 11/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 12/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 13/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 14/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 15/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 18/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 19/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 20/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 21/03/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+### 22/03/2024  
 
 **Jessé da Nobrega**  
 
