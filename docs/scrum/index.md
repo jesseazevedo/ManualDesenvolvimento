@@ -3,6 +3,7 @@
 ## Reunião de planejamento (Sprint Planning)
 **Duração:** 4 horas - das 14h ~ 18h  
 Realizada na primeira segunda-feira da sprint  
+**Planning Poker** https://planningpokeronline.com/
 
 ## Reunião diária (Daily)
 **Duração:** 15 minutos - das 9h ~ 9h15  

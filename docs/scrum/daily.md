@@ -591,85 +591,76 @@ Vai continuar o trabalho da tela do dashboard e deverá entregar hoje
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Continuou trabalhando no backend e se reuniu com a equipe  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Precisou tirar o dia off.  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Estudou as tecnologias que estão sendo usadas  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Terminou a configuração da máquina com o código  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Criou API para testar a tela de cadastro  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou a tela dashboard e menus  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
 ### 12/03/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Criou decorators no backend e estruturou a parte do banco de dados  
 * O que será feito?  
-[insira o texto aqui]  
+Finaliza o backend com os recursos do cadastro de usuários e de login e vai implementar os métodos de envio de e-mails  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Começou a fazer os componentes do dashboard  
 * O que será feito?  
-[insira o texto aqui]  
+vai  revisar os componentes e pretende dar um ajuda no backend  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
@@ -683,29 +674,29 @@ Vai continuar o trabalho da tela do dashboard e deverá entregar hoje
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Estudou a documentação da parte de banco  
 * O que será feito?  
-[insira o texto aqui]  
+Vai avaliar quais tabelas que estão faltando pra começar a criar  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Baixou os códigos e deu uma analisada neles  
 * O que será feito?  
-[insira o texto aqui]  
+Vai iniciar a integração da tela de cadastro  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Fez 3 modelos de telas de erro e terminou a tela de passo a passo  
 * O que será feito?  
-[insira o texto aqui]  
+Irá iniciar o desenvolvimento das telas de formulário  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Angelo Morais**  
 
@@ -721,65 +712,56 @@ Vai continuar o trabalho da tela do dashboard e deverá entregar hoje
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Configurou o módulo de e-mail para usar na aplicação  
 * O que será feito?  
-[insira o texto aqui]  
+Finalizar a configuração do e-mail e apoiar a equipe no que precisar  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Terminou os componentes do Dashboard, ajudou o Renan no template do header e do menu lateral, fez a lógica do breadcrumb  
 * O que será feito?  
-[insira o texto aqui]  
+Vai avançar na parte do front do cadastro de usuário  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Resolveu os conflitos no PR do recuperar senha  
 * O que será feito?  
-[insira o texto aqui]  
+Irá puxar uma issur do board  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Se reuniu com a equipe pra resolver o problema da CSS (conflitos) e voltou a estudar a documentação do banco e já puxou uma atividade do board, debateu com o Jessé sobre a estrutura  
 * O que será feito?  
-[insira o texto aqui]  
+Irá avançar no banco do cadastro de usuário  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Começou a fazer o template da página (header, sidebar, etc) e pegou a página de cadastro de perfil de usuários  
 * O que será feito?  
-[insira o texto aqui]  
+resolver uns problemas do design e avançar nos modais  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Avançou nas telas de perfis de usuários  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientação  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
 ### 14/03/2024  
 
