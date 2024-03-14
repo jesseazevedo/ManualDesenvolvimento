@@ -768,65 +768,56 @@ Não
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Reorganizou o breadcrumb e enviou pro git, ajudou o Renan a finalizar o template, e iniciou um ajuste no redefinir senha  
 * O que será feito?  
-[insira o texto aqui]  
+Continuar no ajuste do redefinir senha  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Fez ajustes na página de erro e iniciou a parte de profile  
 * O que será feito?  
-[insira o texto aqui]  
+Continuar na parte de profile  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na construção do banco das estruturas que já existiam e foi adaptando conforme descrito nos documentos  
 * O que será feito?  
-[insira o texto aqui]  
+Trabalhar em cima das definições que terá com Jessé  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou em cima do template, enviou o PR mas encontrou bug e conseguiu corrigir  
 * O que será feito?  
-[insira o texto aqui]  
+Terminar o modal e página de cadastro de usuários  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Conseguiu terminar parte das telas ontem  
 * O que será feito?  
-[insira o texto aqui]  
+Irá continuar no desenvolvimento das telas de perfil e cadastro de usuário  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+ Não  
 
 ### 15/03/2024  
 
