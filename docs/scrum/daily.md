@@ -824,65 +824,56 @@ Irá continuar no desenvolvimento das telas de perfil e cadastro de usuário
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Avançou nos testes do backend e realizou algumas correções e está resolvendo um problema com o i18n  
 * O que será feito?  
-[insira o texto aqui]  
+Finalização dos testes e transferência do repositório. Irá também estruturar a infra.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Organizou os services e os hooks do usuário e rodou o backend e corrigiu problemas encontrados  
 * O que será feito?  
-[insira o texto aqui]  
+Começou a trabalhar na parte de redefinir senha e vai trabalhar em um script para dar carga no banco  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Fez o componente de paginação e também está componentizando a página de perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando no front da página de perfis  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou o scrip para os bancos e já rodou no postgre local  
 * O que será feito?  
-[insira o texto aqui]  
+Vai transcrever para os demais bancos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Resolveu erro nos templates, teve ajuda do Tácio e subiu o PR  
 * O que será feito?  
-[insira o texto aqui]  
+Vai puxar uma das issues no board  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou os ajustes das telas de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientações para  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
 ### 18/03/2024  
 
