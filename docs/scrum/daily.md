@@ -880,215 +880,188 @@ Não
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou testes no backend e trabalhou na parte de cadastro de usuário  
 * O que será feito?  
-[insira o texto aqui]  
+Vai reunir com parte da equipe para tratar das demandas do dia  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou ajustes no template e fez code review com o Tácio  
 * O que será feito?  
-[insira o texto aqui]  
+Vai reunir com parte da equipe para tratar das demandas do dia  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Melhorou o componente de tabela e paginação, trabalhou na tela de perfis customizados e fez o code review com o Pedro  
 * O que será feito?  
-[insira o texto aqui]  
+Vai reunir com parte da equipe para tratar das demandas do dia  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou os scripts de estabelecimento e fechou todos os scripts criados dentro do postgre e iniciou os scripts dos outros bancos  
 * O que será feito?  
-[insira o texto aqui]  
+Vai reunir com parte da equipe para tratar das demandas do dia  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na tela de solicitação de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Irá trabalhar na integração com o backend  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nas telas de estebelecimento, mantenedores e de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando novos requisitos para trabalhar nas telas  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não.  
 
 ### 19/03/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na issue de construir os recursos de gerenciar permissões  
 * O que será feito?  
-[insira o texto aqui]  
+Vai dar continuidade nessa issue  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos recursos dos estados e municípios, recuperação de senha por e-mail e começou a integração de login e cadastro  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar na integração com o login e cadastro  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Está trabalhando na atividade de personalização de perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar com a atividade de personalização  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Montou o ambiente oracle para teste dos scripts de banco  
 * O que será feito?  
-[insira o texto aqui]  
+Está montando o ambiente do sqlserver  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Terminou as validação e internacionalização da tela de validaçao  
 * O que será feito?  
-[insira o texto aqui]  
+Iniciou a componentização da tela de estabelecimentos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
   
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
 
 ### 20/03/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na configuração dos seeders do banco de dados  
 * O que será feito?  
-[insira o texto aqui]  
+Vai finalizar os recursos para atribuir perfil  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou   
 * O que será feito?  
-[insira o texto aqui]  
+Começar a parte dos esta  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no CRUD de perfis no backend, estudou um pouco da tecnologia nextjs pois não é tão familiarizado  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na criação de instância e de perfil  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Subiu o banco do sqlserver
 * O que será feito?  
-[insira o texto aqui]  
+vai fazer os scripts para testar no sqlserver  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na integração da tabela de municípios e estados, finalizou a componentização da tela de cadastro de estabelecimentos  
 * O que será feito?  
-[insira o texto aqui]  
+Continuar com a integração das telas  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou os ajustes solicitados nas telas de estabelecimentos, mantenedores e perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientações das novas telas  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-
 ### 21/03/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou code review e trabalhou na parte de solicitações de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na parte dos recuros de solicitações de perfil  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos filtros e ajustes do backend e começou a fazer o módulo de estabelecimento  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na API do CNES  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
@@ -1102,29 +1075,29 @@ Não
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Fez alterações nos scripts e criou a tabela de farmacêuticos, implementou melhorias do usuário também  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na migração para as outras bases para o pessoal já ter uma carga para começar a trabalhar  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Continuou fazendo a tela de cadastro de estabelecimento e de perfil, e fez os filtros do municpio por estado  
 * O que será feito?  
-[insira o texto aqui]  
+Vai integrar o perfil na tela de estabelecimento  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou ajustes nas telas  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Angelo Morais**  
 
@@ -1140,68 +1113,59 @@ Não
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no atribuir permissão e começou a escrever os guardiões (AuthGuard)  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar no atribuir permissões  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Iniciou o backend do cadastro dos estabelecimentos  
 * O que será feito?  
-[insira o texto aqui]  
+Vai finalizar o cadastro de estabelecimentos e irá trabalhar na listagem dos estabelecimentos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na API de perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando na API  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na migração dos scripts do banco mysql  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar com a migração do mysql e iniciar a migração pra Oracle  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no botão de actions na tela de solicitação de perfis e na tela de cadastro de estabelecimentos  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar no trabalho da integração da tela de cadastro de estabelecimentos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nas telas e nos fluxos das funcionalidades  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientações  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
 ## Sprint 02  
-### 11/03/2024  
+### 25/03/2024  
 
 **Jessé da Nobrega**  
 
@@ -1266,202 +1230,202 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 12/03/2024  
+### 26/03/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na listagem de estabelecimentos e os filtros de ordenação, refatorou as strings do i18n e refatorou os CIDs  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar em alguma issue de teste  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos recursos de permissões dos perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai avançar no frontend das telas de perfis  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos scripts de banco, finalizou a parte da oracle  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar no sqlserver  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na integração dos perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai refatorar o código  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Aguardando orientações sobre as telas  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando orientações sobre as telas  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
+Não  
+
+**Vicente Albuquerque**
 
 * O que fez?  
-[insira o texto aqui]  
+Levantou o ambiente na máquina  
 * O que será feito?  
-[insira o texto aqui]  
+Está se ambientando  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
-### 13/03/2024  
+### 27/03/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Começou a criar os testes para login e trabalhou na tela de cadastro de mantenedores  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar com a tela de mantenedores  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nas telas de customizar perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai terminar a tela de customizar perfis  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no script sqlserver  
 * O que será feito?  
-[insira o texto aqui]  
+Vai terminar o script do sqlserver  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Refatorou o código e melhorou os hooks e services da tela de solicitar permissões  
 * O que será feito?  
-[insira o texto aqui]  
+Precisa dos recursos de gerenciar permissões para continuar avançando
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nas telas de listagem do sistema  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar em ajustes nas telas de cadastro  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Estudou a regra de negócio e o fluxo de desenvolvimento  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
-### 14/03/2024  
+### 28/03/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou os recursos dos perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai finalizar os testes dos recursos dos perfis e liberar para a equipe  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Começou a fazer a parte de criação das instâncias e iniciou a parte de listar  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando no listar  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Conseguiu fazer funcionar o vínculo com perfil e avançou na tela dos perfis personalizados  
 * O que será feito?  
-[insira o texto aqui]  
+Vai finalizar a tela de perfis  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou ajustes no código de perfil, breadcrumb e resolveu conflitos  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar   
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Fez um modelo de tela de perfil e um modelo de listagem sem dados  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar nas telas de mantenedor  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Fez uma modificação na tela de mantenedor  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar com a implementação do radio button na tela de mantenedor  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
-### 15/03/2024  
+### 29/03/2024  
 
 **Jessé da Nobrega**  
 
