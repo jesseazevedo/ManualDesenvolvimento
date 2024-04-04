@@ -1425,6 +1425,72 @@ Vai continuar com a implementação do radio button na tela de mantenedor
 * Algum impedimento?  
 Não  
 
+### 29/03/2024 (Feriado)  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Tácio Brito**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Angelo Morais**  
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+
+
 ### 01/04/2024  
 
 **Jessé da Nobrega**  
@@ -1555,7 +1621,7 @@ Vai trabalhar no redirecionamento do login
 * Algum impedimento?  
 Não  
 
-### 19/03/2024  
+### 03/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -1569,188 +1635,123 @@ Não
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Adicionou a ilustração da tabela vazia e trabalhou na lógica do campo de pesquisa  
 * O que será feito?  
-[insira o texto aqui]  
+Fará um ajuste no i18n   
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos testes a instância de configuração e profiles  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar nos testes de qualidade  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Terminou o fluxo de telas da aplicação  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar nos ajustes das telas de cadastro de estabelecimentos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no redirecionamento de login  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na refatoração do i18n  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
-### 20/03/2024  
+### 04/04/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Fez as revisões dos PRs e realizou aprovação de alguns  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no refatoramento do i18n (componentes compartilhados)  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando na refatoração do i18n  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no refatoramento do i18n (componentes dos módulos)  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando na refatoração do i18n e nas issues de qualidade  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Fez pair programming com a equipe na refatoração do i18n, fez ajustes nos hooks e em conflitos na funcionalidade de solicitar permissão  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando na issue de solicitar permissão  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou ajustes no fluxo do protótipo  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar nos ajustes da tela de cadastro de estabelecimentos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no refatoramento do i18n (pages)  
 * O que será feito?  
-[insira o texto aqui]  
+Vai puxar uma atividade do board ou ajudar a equipe  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
-### 21/03/2024  
-
-**Jessé da Nobrega**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Pedro Henrique**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Tácio Brito**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Luiz Alvez**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Renan Thyerry**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-
-### 22/03/2024  
+### 05/04/2024  
 
 **Jessé da Nobrega**  
 
