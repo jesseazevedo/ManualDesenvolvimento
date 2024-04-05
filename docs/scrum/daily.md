@@ -1756,65 +1756,65 @@ Não
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Aprovou PRs e se reuniu com a equipe para passar orientações  
 * O que será feito?  
-[insira o texto aqui]  
+Pretende finalizar as anotations dos perfis  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na refatoração do i18n e resolveu conflitos dos PRs aprovados  
 * O que será feito?  
-[insira o texto aqui]  
+Propõe trabalhar na padronização do código  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Avançou na funcionalidade de solicitar perfil e desenvolveu um filtro de instância  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar nos testes da funcionalidade de solicitar perfil para abrir o PR  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Terminou a mudança no backend da solicitação de perfis e avançou na página de detalhamento de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Vai integrar o backend com o front das telas de perfil  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos ajustes solicitados no fluxo do sistema  
 * O que será feito?  
-[insira o texto aqui]  
+Vai finalizar os ajustes da tela de cadastro de estabelecimento  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+  
 * Algum impedimento?  
-[insira o texto aqui]  
+  
 
 ## Sprint 03  
 ### 11/03/2024  
