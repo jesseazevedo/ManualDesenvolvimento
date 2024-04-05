@@ -17,6 +17,7 @@ nav:
     - "Metodologia":
       - "Scrum": scrum/index.md
       - "Daily": scrum/daily.md
+      - "Retrospectiva": scrum/restrospective.md
     - "Revisão de Código": revisoes/index.md
     - "Front-end": frontend/index.md
     - "Back-end": backend/index.md
