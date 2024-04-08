@@ -1817,70 +1817,70 @@ Não
   
 
 ## Sprint 03  
-### 11/03/2024  
+### 08/04/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+[Não  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Fez a padronização das validações  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Estava viajando e não conseguiu avançar nas atividades  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Planning  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na página de solicitação de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no ajuste da tela de cadastro de establecimento  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
+**Vicente de Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Vai fazer um ajuste no refresh token do usuário  
 * O que será feito?  
-[insira o texto aqui]  
+Planning  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
 ### 12/03/2024  
 
