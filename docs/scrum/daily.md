@@ -1882,9 +1882,54 @@ Planning
 * Algum impedimento?  
 Não  
 
-### 12/03/2024  
+### 09/04/2024  
 
 **Jessé da Nobrega**  
+
+* O que fez?  
+Se reuniu com a equipe para repassar algumas atividades de refatoração do código visando melhorar a infra e a segurança  
+* O que será feito?  
+Vai trabalhar nos PRs e fazer doce review da equipe  
+* Algum impedimento?  
+Não  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Começou a fazer os ajustes do cabeçalho e os ajustes na padronização das respostas do backend  
+* O que será feito?  
+Vai continuar nos ajustes do cabeçalho e da padronização  
+* Algum impedimento?  
+Não  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Trabalhou na refatoração do menu lateral  
+* O que será feito?  
+Vai ajudar o Renan com os endpoints   
+* Algum impedimento?  
+Não  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Fez pair programming com Renan e está trabalhando no script da alteração do banco  
+* O que será feito?  
+Vai continuar trabalhando nos scripts de banco  
+* Algum impedimento?  
+Não  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Fez alterações no layout seguindo as telas desenvolvidas pelo Fábio, avançou também na integração  
+* O que será feito?  
+Vai continuar na integração  
+* Algum impedimento?  
+Não  
+ 
+**Fábio Cardoso**
 
 * O que fez?  
 [insira o texto aqui]  
@@ -1892,6 +1937,156 @@ Não
 [insira o texto aqui]  
 * Algum impedimento?  
 [insira o texto aqui]  
+  
+**Vicente de Albuquerque**  
+
+* O que fez?  
+Trabalhou com a issue de adicionar header para padrões no backend  
+* O que será feito?  
+Vai continuar trabalhando com a issue do header  
+* Algum impedimento?  
+Não  
+
+### 10/04/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Aprovou os PRs da equipe e contribuiu com a escrita das HUs no git  
+* O que será feito?  
+Vai continuar na revisão do código dos PRs e trabalhar no refinamento das HUs  
+* Algum impedimento?  
+Não  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Finalizou a issue 151 de ajustar notas no frontend  
+* O que será feito?  
+Vai trabalhar no ajuste das rotas da tela de configuração  
+* Algum impedimento?  
+Não  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Finalizou a montagem do menu e criou componentes do dashboard  
+* O que será feito?  
+Trabalhar na refatoração das listagens e cadastros  
+* Algum impedimento?  
+Não  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Ajudou o Renan com as atividades da componentização dos elementos do template e a tela de solicitar permissão  
+* O que será feito?  
+Vai continuar no trabalho com o Renan  
+* Algum impedimento?  
+Não  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Trabalhou nas tarefas de componentes do elementos do template e a tela de solicitar permissão  
+* O que será feito?  
+Vai continuar notrabalho dos componentes do template e na tela de solicitar permissão  
+* Algum impedimento?  
+Não  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+Trabalhou nas telas de configuração e o fluxo do protótipo  
+* O que será feito?  
+Aguardando demandas  
+* Algum impedimento?  
+Não  
+  
+**Vicente de Albuquerque**  
+
+* O que fez?  
+Trabalhou na issue de adicionar o header padrão para os endpoints  
+* O que será feito?  
+Vai puxar uma das tarefas no board  
+* Algum impedimento?  
+Não  
+
+### 11/04/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+  
+* O que será feito?  
+  
+* Algum impedimento?  
+Não  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Se reuniu com a equipe e resolveu um problema com o refresh token, ajustou algumas coisas do react e finalizou a instância dos entes.  
+* O que será feito?  
+Vai puxar uma issue do board  
+* Algum impedimento?  
+Não  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Finalizou a refatoração das listagens e cadastros  
+* O que será feito?  
+Vai puxar uma issue do board  
+* Algum impedimento?  
+Não  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Finalizou a solicitação de perfil junto com o Renan  
+* O que será feito?  
+Vai trabalhar na atribuição de perfil  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Fez pair programming com o Luiz e finalizou a solicitação de perfil  
+* O que será feito?  
+Vai trabalhar em pair programming com o Luiz e finalizar a atribuição de perfil  
+* Algum impedimento?  
+Não  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+[insira o texto aqui]  
+* O que será feito?  
+[insira o texto aqui]  
+* Algum impedimento?  
+[insira o texto aqui]  
+  
+**Vicente de Albuquerque**  
+
+* O que fez?  
+Trabalhou no ajuste do refresh token no frontend  
+* O que será feito?  
+Vai puxar uma issue no board  
+* Algum impedimento?  
+Não  
+
+### 12/04/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Trabalhou no backend da aplicação, organizou as tarefas para a equipe e participou de reuniões negociais  
+* O que será feito?  
+Vai trabalhar na issue de configuração de dados de perfis  
+* Algum impedimento?  
+Não  
   
 **Pedro Henrique**  
 
@@ -1905,49 +2100,49 @@ Não
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+ Finalizou a refatoração de perfis  
 * O que será feito?  
-[insira o texto aqui]  
+Vai puxar uma issue do board  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou as solicitações de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na atribuição de perfil  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou em pair programming com o Luiz e finalizou a solicitação de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na atribuição de perfil  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
   
-**Angelo Morais**  
+* O que será feito?  
+  
+* Algum impedimento?  
+  
+  
+**Vicente de Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou com o Pedro em pair programming no refresh token no frontend e subiu o PR para aprovação  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar no backend de departamentos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
-### 13/03/2024  
+### 15/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -1961,58 +2156,123 @@ Não
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Não conseguiu avançar muita coisa (problemas pessoais)  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na issue de bugfix de cadastro  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Enviou um PR com ajustes dos perfis para aprovação  
 * O que será feito?  
-[insira o texto aqui]  
+Vai puxar uma issue no board  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou com o Renan para finalizar as atividades da soliciação de perfil  
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar nos bancos de dados  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou em pair programming com o Luiz e terminou a featura de solicitar perfis e permissões  
 * O que será feito?  
-[insira o texto aqui]  
+Vai puxar uma issue do board  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou alterações nas telas e no fluxo do protótipo conforme documentação negocial  
 * O que será feito?  
-[insira o texto aqui]  
+Aguardando demandas  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na issue 178 de backend de departamentos  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando na issue 178 de backend de departamentos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
-### 14/03/2024  
+### 16/04/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Se reuniu com a equipe para dar uma ajuda no desenvolvimento e se reuniu com o arquiteto para avançar nos ambientes  
+* O que será feito?  
+Vai avançar no ambiente de homologação  
+* Algum impedimento?  
+Não  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Trabalhou no ajuste do backend dos estabelecimentos  
+* O que será feito?  
+Vai puxar uma issue do board pois as issues que estão definidas pra ele estão sendo bloqueadas por outras  
+* Algum impedimento?  
+Não  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Trabalhou na issue 171, recursos de farmacêuticos  
+* O que será feito?  
+Vai continuar trabalhando nos recursos de farmacêuticos  
+* Algum impedimento?  
+Não  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+  
+* O que será feito?  
+Vai trabalhar na issue 177, database de departamentos  
+* Algum impedimento?  
+Não  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Se reuniu com o Vicente e o Jessé, fez o refactor na tela de estabelecimentos e enviou o PR para aprovação  
+* O que será feito?  
+Vai trabalhar na issue 179, frontend de departamentos  
+* Algum impedimento?  
+Não  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+Aguardando para desenvolver novas telas  
+* O que será feito?  
+Aguardando para desenvolver novas telas  
+* Algum impedimento?  
+Não  
+  
+**Vicente Albuquerque**  
+
+* O que fez?  
+Se reuniu com Jessé e Renan para alinhar alguns ajustes nas tabelas, continuou no CRUD de departamento  
+* O que será feito?  
+Vai trabalhar na remontagem do banco com o Luiz  
+* Algum impedimento?  
+Não  
+
+### 17/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -2026,38 +2286,38 @@ Não
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Concluiu a integração com o CNES e se reuniu com o Vicente para ver algumas validações do estabelecimento  
 * O que será feito?  
-[insira o texto aqui]  
+Vai fazer pair programming com o Renan  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na API de farmacêuticos  
 * O que será feito?  
-[insira o texto aqui]  
+Vai finalizar a API de farmacêuticos  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou dois scripts de banco do departamento e iniciou o trabalho da issue 177   
 * O que será feito?  
-[insira o texto aqui]  
+Vai trabalhar na issue 177  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na tela do departamento  
 * O que será feito?  
-[insira o texto aqui]  
+Vai continuar trabalhando na tela de front do departamento  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
  
 **Fábio Cardoso**
 
@@ -2068,274 +2328,14 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou ontem com o Luiz para terminar a parte do banco do estabelecimento, concluiu o CRUD de departamento   
 * O que será feito?  
-[insira o texto aqui]  
+Vai puxar uma issue do board  
 * Algum impedimento?  
-[insira o texto aqui]  
-
-### 15/03/2024  
-
-**Jessé da Nobrega**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Pedro Henrique**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Tácio Brito**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Luiz Alvez**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Renan Thyerry**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-
-### 18/03/2024  
-
-**Jessé da Nobrega**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Pedro Henrique**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Tácio Brito**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Luiz Alvez**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Renan Thyerry**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-
-### 19/03/2024  
-
-**Jessé da Nobrega**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Pedro Henrique**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Tácio Brito**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Luiz Alvez**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Renan Thyerry**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-
-### 20/03/2024  
-
-**Jessé da Nobrega**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Pedro Henrique**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Tácio Brito**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Luiz Alvez**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Renan Thyerry**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não  
 
 ### 21/03/2024  
 
