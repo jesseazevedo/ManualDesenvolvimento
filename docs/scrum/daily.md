@@ -1167,69 +1167,60 @@ Não
 ## Sprint 02  
 ### 25/03/2024  
 
-**Jessé da Nobrega**  
+**José Roberto**  
 
 * O que fez?  
-[insira o texto aqui]  
+Atuou no build dos ambientes.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará trabalhando  
 * Algum impedimento?  
-[insira o texto aqui]  
+Sem impedimentos.  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Atuou em ajustes apontados pelo Luiz. 
 * O que será feito?  
-[insira o texto aqui]  
+Criará um componente de busca para estabelecimentos de saúde.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Atuou no desenvolvimento do backend relacionado aos perfis personalizados.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará a atividade.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Sem impedimentos.  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou o sql para mySQL e Postgres.  
 * O que será feito?  
-[insira o texto aqui]  
+Trabalhando no Oracle.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Continuou trabalhando na integração da tela de estabelecimentos.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará a atividade.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou telas e apresentou para avaliação.  
 * O que será feito?  
-[insira o texto aqui]  
+Aguarda Instruções  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-
 ### 26/03/2024  
 
 **Jessé da Nobrega**  
@@ -2337,7 +2328,7 @@ Vai puxar uma issue do board
 * Algum impedimento?  
 Não  
 
-### 21/03/2024  
+### 18/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -2402,73 +2393,194 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 22/03/2024  
+### 19/04/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+No decorrer do dia, trabalhou com recurso de carga de dados na aplicação. Realizou reuniões com a equipe de desenvolvimento e de negócio.
 * O que será feito?  
-[insira o texto aqui]  
+Continuará trabalhando no contexto da aplicação.
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Tocou a integração de idioma na tela inicial. Discutiu contexto da instância o contexto.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará implementando contexto.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
-**Tácio Brito**  
+**Rennan Thyerry**  
 
 * O que fez?  
-[insira o texto aqui]  
+Componentizou o endereçamento físico no back. Vai conversar com o vicente e continuar departamentos.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará com a execução do recurso departamentos. 
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou pair programming com o Renan e conversou com o Fábio. Estudando sobre armazenamento.  
 * O que será feito?  
-[insira o texto aqui]  
+Tratará de uma proposta para armazenamento. 
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
-**Renan Thyerry**
+**Tácio Brito**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou no PR api de farmacêuticos.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará nela e puxará o front de farmacêuticos.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Apresentou proposta de idioma e contexto.  
 * O que será feito?  
-[insira o texto aqui]  
+À disposição para novas atividades.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Sim, dificuldades para o entendimento da demanda. 
   
-**Angelo Morais**  
+**Vicente**  
 
 * O que fez?  
-[insira o texto aqui]  
+Reunião com Jessé a tarde para entender o contexto da aplicação. Implementou estados na aplicação com zustand.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará a atividade.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
 
 ## Sprint 04  
-### 11/03/2024  
+### 22/04/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Trabalhando no contexto da aplicação no backend. Reunião com a equipe de negócio e desenvolvimento para sanar dúvidas.  
+* O que será feito?  
+Continuará a atividade. 
+* Algum impedimento?  
+Não  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Reuniu com o Jessé Azevêdo para sanar dúvidas e solucionar impedimentos relacionados a renderização condicional da tela.  
+* O que será feito?  
+Continuará a atividade.  
+* Algum impedimento?  
+Aguarda liberação de PR's.  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Atuou no frontend de farmacêuticos.  
+* O que será feito?  
+Continuará a integração.  
+* Algum impedimento?  
+Não.  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Estudou localização física.  
+* O que será feito?  
+Continuará atividades relacionadas a localização física.  
+* Algum impedimento?  
+Não.  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Corrigiu erros relacionados a solicitação de permissões.  
+* O que será feito?  
+Trabalhará na integração das telas.  
+* Algum impedimento?  
+Teve dificuldades para entender o fluxo, porém realizou reuniões com o Luiz e o Jessé para resolver.  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+Reuniu com a equipe de negócio.  
+* O que será feito?  
+Solucionará melhorias solicitadas.  
+* Algum impedimento?  
+Não.  
+  
+**Vicente Albuquerque**  
+
+* O que fez?  
+Reuniu com o Jessé Azevêdo para sanar dúvidas sobre contexto da aplicação.  
+* O que será feito?  
+Continuará dando andamento à atividade.  
+* Algum impedimento?  
+Não.  
+
+### 23/04/2024  
+
+**Pedro Henrique**  
+
+* O que fez?  
+Aguarda aprovação de PR's.  
+* O que será feito?  
+Continuará atividade.  
+* Algum impedimento?  
+Pr's contém recursos que necessita para continuar as atividades.  
+  
+**Tácio Brito**  
+
+* O que fez?  
+Encaminhou novo PR com recursos.  
+* O que será feito?  
+AJustará conflitos reportados por Jessé Azevêdo.  
+* Algum impedimento?  
+Não. 
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Estudando localização física.  
+* O que será feito?  
+Continuará atividade.  
+* Algum impedimento?  
+Não.  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Resolveu conflitos reportados em seu último PR. Atuando na integração de departamentos.  
+* O que será feito?  
+Continuará na atividade.  
+* Algum impedimento?  
+Não.  
+ 
+**Fábio Cardoso**
+
+* O que fez?  
+Atualização de telas.  
+* O que será feito?  
+Aguarda instruções.  
+* Algum impedimento?  
+Sem impedimentos.  
+  
+**Vicente ALbuquerque**  
+
+* O que fez?  
+Resolveu conflitos em PR's.  
+* O que será feito?  
+COntinuará atividades.  
+* Algum impedimento?  
+Não.  
+
+### 24/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -2533,7 +2645,7 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 12/03/2024  
+### 25/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -2598,7 +2710,7 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 13/03/2024  
+### 26/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -2663,7 +2775,7 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 14/03/2024  
+### 29/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -2728,7 +2840,7 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 15/03/2024  
+### 30/04/2024  
 
 **Jessé da Nobrega**  
 
@@ -2793,7 +2905,7 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 18/03/2024  
+### 01/05/2024  
 
 **Jessé da Nobrega**  
 
@@ -2858,262 +2970,179 @@ Não
 * Algum impedimento?  
 [insira o texto aqui]  
 
-### 19/03/2024  
+### 02/05/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Implementação do contexto da aplicação em backend e recursos de segurança.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará a atividade.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Ajustes no cadastro de entes, atualizou o contexto de estabelecimentos e componente de seleção de um establecimento.  
 * O que será feito?  
-[insira o texto aqui]  
+Refinará o contexto com o Vicente e tratará o breadcrumb com o Tácio.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou nos conflitos de PR, atualizou dados do perfil e instância conforme contexto.  
 * O que será feito?  
-[insira o texto aqui]  
+Atuará na branch de endereçamento físico.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Reuniões para próximos passos, ajustes no modal. Voltou para atividade de banco endereçamento físico demais bancos.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará as atividades.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Refatorou o código do departamento e enviou um PR para avaliação, reuniu com o Luiz.  
 * O que será feito?  
-[insira o texto aqui]  
+Atualizará outros componentes de ordenação e resolverá conflitos.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Sem impedimentos.  
  
 **Fábio Cardoso**
 
 * O que fez?  
-[insira o texto aqui]  
+Encaminhou atualizações solicitadas pelo Alexandre Lage.  
 * O que será feito?  
-[insira o texto aqui]  
+Aguarda novas instruções.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Sem impedimentos.  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Continuou atuando na atividade de troca de contexto. Houveram dúvidas quanto a implementação, no entanto as mesmas foram sanadas.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará atuando na atividade.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Sem impedimentos.  
 
-### 20/03/2024  
+### 03/05/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Implementação do contexto da aplicação em backend e recursos de segurança com guards e annotations.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará a atividade.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na renderização condicional do menu e trabalhou no breadcrumb.  
 * O que será feito?  
-[insira o texto aqui]  
+Trabalhará no cabeçalho das requisições.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou na parte de endereçamento físico, conversou com o Luiz.  
 * O que será feito?  
-[insira o texto aqui]  
+Atuará a fim de concluir a API de localizações físicas.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Estudou o dump da OBM. Tentou restaurar o dump sem sucesso.  
 * O que será feito?  
-[insira o texto aqui]  
+Ajustará a branch de modal de usuário.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Dificuldades técnicas para a restauração do dump OBM.  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
+Trabalhou resolvendo conflitos. Adicionou componentes de ordenação de tela. Refatorou o código de solicitação de perfis.  
 * O que será feito?  
-[insira o texto aqui]  
+Adicionará recurso inativar perfil.  
 * Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
-**Angelo Morais**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Realizou reunião com a equipe. Trabalhou no contexto e configuração do Menu.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará trabalhando no contexto da aplicação.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Aguarda finalização da Branch de Jessé Azevêdo.  
 
-### 21/03/2024  
+### 06/05/2024  
 
 **Jessé da Nobrega**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou recursos de contexto. Encaminhou a atividade para a equipe.  
 * O que será feito?  
-[insira o texto aqui]  
+Trabalhará na infraestrutura.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não.  
   
 **Pedro Henrique**  
 
 * O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
   
+* O que será feito?  
+  
+* Algum impedimento?  
+  
+
 **Tácio Brito**  
 
 * O que fez?  
-[insira o texto aqui]  
+Finalizou a api de localização física. Está realizando revisões antes do PR.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará a revisão e envio de PR.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Não  
   
 **Luiz Alvez**  
 
 * O que fez?  
-[insira o texto aqui]  
+Ajustou detalhes da interface de detalhes do usuário. Voltou a estudar a OBM.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará o estudo da OBM, tentará subir o dump.  
 * Algum impedimento?  
-[insira o texto aqui]  
+Sem impedimentos.  
   
 **Renan Thyerry**
 
 * O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
   
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
 * O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-
-### 22/03/2024  
-
-**Jessé da Nobrega**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
   
-**Pedro Henrique**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
 * Algum impedimento?  
-[insira o texto aqui]  
   
-**Tácio Brito**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
   
-**Luiz Alvez**  
+**Vicente Albuquerque**  
 
 * O que fez?  
-[insira o texto aqui]  
+Atuou no componente de contexto.  
 * O que será feito?  
-[insira o texto aqui]  
+Continuará a atividade com o Rennan.  
 * Algum impedimento?  
-[insira o texto aqui]  
-  
-**Renan Thyerry**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
- 
-**Fábio Cardoso**
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
-  
-**Angelo Morais**  
-
-* O que fez?  
-[insira o texto aqui]  
-* O que será feito?  
-[insira o texto aqui]  
-* Algum impedimento?  
-[insira o texto aqui]  
+Não  
