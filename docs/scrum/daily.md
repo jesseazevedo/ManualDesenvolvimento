@@ -3146,3 +3146,68 @@ Atuou no componente de contexto.
 Continuará a atividade com o Rennan.  
 * Algum impedimento?  
 Não  
+
+### 08/05/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Trabalhou na atividade 169, criação do amabiente de teste.  
+* O que será feito?  
+Continuará a atividade.  
+* Algum impedimento?  
+Não.  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+
+* O que será feito?  
+ 
+* Algum impedimento?  
+ 
+
+**Fábio Cardoso**  
+
+* O que fez?  
+Reunião com a equipe de negócio e realizou vários ajustes.
+* O que será feito?  
+Terá nova reunião.
+* Algum impedimento?  
+Não.
+  
+**Tácio Brito**  
+
+* O que fez?  
+  
+* O que será feito?  
+  
+* Algum impedimento?  
+  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Restaurou o banco da OBM. Pegou as atividades do Board.  
+* O que será feito?  
+Trabalhará nas tabelas.  
+* Algum impedimento?  
+Precisa conversar para entender alguns pontos.  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Trabalhou na listagem de entes e ativação/inativação de entes.  
+* O que será feito?  
+Buscará nova tarefa no board.  
+* Algum impedimento?  
+Não.  
+  
+**Vicente Albuquerque**  
+
+* O que fez?  
+Trabalhou telas de contexto.  
+* O que será feito?  
+Fará os ajustes sugeridos pelo José Roberto ao contexto.
+* Algum impedimento?  
+Não
