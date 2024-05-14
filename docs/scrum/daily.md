@@ -3211,3 +3211,68 @@ Trabalhou telas de contexto.
 Fará os ajustes sugeridos pelo José Roberto ao contexto.
 * Algum impedimento?  
 Não
+
+### 14/05/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Realizou code review de PR's que aguardavam merge. Trabalhou em localização física. 
+* O que será feito?  
+Discutirá com o Luiz a estrtura de produtos para a saúde, continuará a atividade de localização física.  
+* Algum impedimento?  
+Sem impedimentos.  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+
+* O que será feito?  
+ 
+* Algum impedimento?  
+ 
+
+**Fábio Cardoso**  
+
+* O que fez?  
+Criou telas de consultar entradas, cadastro de entradas e visualizar dados de entrada.
+* O que será feito?  
+Continuará a atividade hoje.
+* Algum impedimento?  
+Não.
+  
+**Tácio Brito**  
+
+* O que fez?  
+Trabalhou com farmacêuticos e selecionou nova task.  
+* O que será feito?  
+Finalizará farmacêuticos apoiará o Rennan nas alterações de perfis personalizados.  
+* Algum impedimento?  
+Não.  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Finalizou o último arquivo do banco de acondicionamento, ajustou a tabela de funcionalidades.  
+* O que será feito?  
+Alterará alguns pontos apontados pelo Jessé no code review e trabalhará com Produtos para a saúde.  
+* Algum impedimento?  
+Não.  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Tratou as telas de perfis personalizados, em pair programming com Tácio. Pegou ajustes para fazer e encaminhou PR.  
+* O que será feito?  
+Continuar ajustes.  
+* Algum impedimento?  
+Não.  
+  
+**Vicente Albuquerque**  
+
+* O que fez?  
+Trabalhou no contexto da aplicação.  
+* O que será feito?  
+Finalizará o contexto.
+* Algum impedimento?  
+Não
