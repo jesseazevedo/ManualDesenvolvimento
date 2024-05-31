@@ -3276,3 +3276,68 @@ Trabalhou no contexto da aplicação.
 Finalizará o contexto.
 * Algum impedimento?  
 Não
+
+### 31/05/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Trabalhando nos ambientes de testes.  
+* O que será feito?  
+Continuará trabalhando.  
+* Algum impedimento?  
+Não.  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Resolveu conflitos.  
+* O que será feito?  
+Aguardando próximos passos.  
+* Algum impedimento?  
+Não  
+
+**Fábio Cardoso**  
+
+* O que fez?  
+
+* O que será feito?  
+
+* Algum impedimento?  
+
+  
+**Tácio Brito**  
+
+* O que fez?  
+Trabalhou com o Rennan nas localizações físicas.  
+* O que será feito?  
+Realizará ajustes em backend localização física.  
+* Algum impedimento?  
+Não.  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+TRabalhou na OBM.  
+* O que será feito?  
+Encaminhará o PR.  
+* Algum impedimento?  
+Não.  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Trabalhou no frontend de localização física. Subiu um PR para aprovação.  
+* O que será feito?  
+COntinuará a integração das localizações físicas.  
+* Algum impedimento?  
+Não.  
+  
+**Vicente Albuquerque**  
+
+* O que fez?  
+Está trabalhando na issue #335 FEATURE/BACKEND_CRIAR_ROLES_GLOBAL.  
+* O que será feito?  
+Finalizará e encaminhará o PR.
+* Algum impedimento?  
+Não.
