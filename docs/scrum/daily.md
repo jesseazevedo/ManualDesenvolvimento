@@ -3341,3 +3341,68 @@ Está trabalhando na issue #335 FEATURE/BACKEND_CRIAR_ROLES_GLOBAL.
 Finalizará e encaminhará o PR.
 * Algum impedimento?  
 Não.
+
+### 07/06/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Subiu infraestrutura e realizou testes na aplicação.
+* O que será feito?  
+Trabalhará nos testes e2e.
+* Algum impedimento?  
+Não.
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Começou a preparar testes, houveram impedimentos. 
+* O que será feito?  
+Aguardará orientações. 
+* Algum impedimento?  
+Sim.  
+
+**Fábio Cardoso**  
+
+* O que fez?  
+Reunião com Viviane e Isabela para continuar a modelagem das telas.
+* O que será feito?  
+COntinuará as atividades.
+* Algum impedimento?  
+Não.
+  
+**Tácio Brito**  
+
+* O que fez?  
+Estudou sobre testes para iniciar as atividades do backend.  
+* O que será feito?  
+Corrigirá problemas de frontend indicados por Jessé.  
+* Algum impedimento?  
+Não.  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+COntinua trabalhando nos scripts da OBM, a priori carga.  
+* O que será feito?  
+Continuará a carga da OBM.  
+* Algum impedimento?  
+Não.  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Trabalhou na tela de dados de estabelecimentos.  
+* O que será feito?  
+Encaminhará PR.  
+* Algum impedimento?  
+Sem impedimentos.  
+  
+**Vicente Albuquerque**  
+
+* O que fez?  
+Trabalhou na modelagem do frontend para adequar-se as regras de negócio de permissão de acesso.   
+* O que será feito?  
+Se reunirá com Jessé para pensar na implementação.
+* Algum impedimento?  
+Não
