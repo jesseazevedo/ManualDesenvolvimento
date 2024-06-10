@@ -3406,3 +3406,68 @@ Trabalhou na modelagem do frontend para adequar-se as regras de negócio de perm
 Se reunirá com Jessé para pensar na implementação.
 * Algum impedimento?  
 Não
+
+### 10/06/2024  
+
+**Jessé da Nobrega**  
+
+* O que fez?  
+Trabalhou nos cenários de teste.
+* O que será feito?  
+Continuará a atividade.
+* Algum impedimento?  
+Aguardando a criação das histórias de usuário para especificar as atividades, aguardando contratação de gestore de configuração para discutir melhorias de ambiente.  
+  
+**Pedro Henrique**  
+
+* O que fez?  
+Não conseguiu avançar devido impedimentos nos testes.  
+* O que será feito?  
+Aguardando orientações.  
+* Algum impedimento?  
+Sim, ajustes de testes.  
+
+**Fábio Cardoso**  
+
+* O que fez?  
+Não conseguiu avançar de
+* O que será feito?  
+Reunirá com a equipe de negócio.
+* Algum impedimento?  
+Sem impédimentos.
+  
+**Tácio Brito**  
+
+* O que fez?  
+Na sexta reuniu com o Renan para verificar a tipagem em frontend.  
+* O que será feito?  
+COntinuará correções em frontend.  
+* Algum impedimento?  
+Não.  
+  
+**Luiz Alvez**  
+
+* O que fez?  
+Continuou trabalhando nos scripts OBM.  
+* O que será feito?  
+Continuará trabalhando na OBM.  
+* Algum impedimento?  
+Dados do CNPJ, Registro ANVISA  
+  
+**Renan Thyerry**
+
+* O que fez?  
+Realizou ajustes na tela de estabelecimentos. Fez pair prograaming com Tácio  
+* O que será feito?  
+Ajustará o PR, verá erros apontados.  
+* Algum impedimento?  
+Não  
+  
+**Vicente Albuquerque**  
+
+* O que fez?  
+Trabalhou no contexto da aplicação no frontend e proposta no backend.  
+* O que será feito?  
+COm a proposta validada, continuará a atividade.
+* Algum impedimento?  
+Não.
